@@ -21,4 +21,4 @@ Sun Distance: 1.015 km
 
 ## Notes 
 
-Node.js PoC - won't work on React.js
+Node.js PoC - won't work on React.js unless it's on the backend side SSR
