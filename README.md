@@ -21,4 +21,4 @@ Sun Distance: 1.015 km
 
 ## Notes 
 
-Prueba de concepto
+Node.js PoC - won't work on React.js
